@@ -1,0 +1,12 @@
+Source: ros-kinetic-kobuki-msgs
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: http://ros.org/wiki/kobuki_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-kobuki-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib-msgs, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: Kobuki message and service types: custom messages and services for Kobuki packages.

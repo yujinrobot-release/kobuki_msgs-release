@@ -1,3 +1,26 @@
+## kobuki_msgs (kinetic) - 0.7.0-0
+
+The packages in the `kobuki_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release kobuki_msgs --track kinetic --rosdistro kinetic --new-track` on `Fri, 06 May 2016 05:47:33 -0000`
+
+The `kobuki_msgs` package was released.
+
+Version of package(s) in repository `kobuki_msgs`:
+
+- upstream repository: https://github.com/yujinrobot/kobuki_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.35`
+
+
 ## kobuki_msgs (indigo) - 0.6.1-0
 
 The packages in the `kobuki_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release kobuki_msgs -t indigo -r indigo` on `Mon, 11 Aug 2014 05:34:21 -0000`

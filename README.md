@@ -1,3 +1,26 @@
+## kobuki_msgs (melodic) - 0.7.0-1
+
+The packages in the `kobuki_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic kobuki_msgs` on `Wed, 16 May 2018 00:21:47 -0000`
+
+The `kobuki_msgs` package was released.
+
+Version of package(s) in repository `kobuki_msgs`:
+
+- upstream repository: https://github.com/yujinrobot/kobuki_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.7.0-0`
+- new version: `0.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## kobuki_msgs (melodic) - 0.7.0-0
 
 The packages in the `kobuki_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic kobuki_msgs` on `Wed, 16 May 2018 00:00:34 -0000`

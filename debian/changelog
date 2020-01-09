@@ -1,0 +1,23 @@
+ros-eloquent-kobuki-msgs (0.8.0-1bionic) bionic; urgency=high
+
+  * Ros2 eloquent upgrade, #11 <https://github.com/yujinrobot/kobuki_msgs/issues/11>
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Thu, 09 Jan 2020 05:00:00 -0000
+
+ros-eloquent-kobuki-msgs (0.6.1-1bionic) bionic; urgency=high
+
+  * Merge pull request #6 <https://github.com/yujinrobot/kobuki_msgs/issues/6> from yujinrobot/msg_moveout
+  * migrate from kobuki_testsuite
+  * Contributors: Daniel Stonier, Jihoon Lee
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Mon, 11 Aug 2014 04:00:00 -0000
+
+ros-eloquent-kobuki-msgs (0.5.0-1bionic) bionic; urgency=high
+
+  * Add new message ControllerInfo for custom PID gain setting of kobuki's wheel controller.
+  * Migrate changelog from ros wiki to this repo.
+  * Add bugtracker and repo URLs.
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Thu, 29 Aug 2013 04:00:00 -0000
+
+

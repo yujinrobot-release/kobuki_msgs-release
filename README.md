@@ -1,3 +1,26 @@
+## kobuki_msgs (eloquent) - 0.8.0-1
+
+The packages in the `kobuki_msgs` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --track eloquent --rosdistro eloquent kobuki_msgs` on `Thu, 09 Jan 2020 16:56:36 -0000`
+
+The `kobuki_msgs` package was released.
+
+Version of package(s) in repository `kobuki_msgs`:
+
+- upstream repository: https://github.com/yujinrobot/kobuki_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.8.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.40`
+
+
 ## kobuki_msgs (melodic) - 0.7.0-1
 
 The packages in the `kobuki_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic kobuki_msgs` on `Wed, 16 May 2018 00:21:47 -0000`

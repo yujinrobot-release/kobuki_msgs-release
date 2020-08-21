@@ -8,5 +8,5 @@ uint8 FAR_LEFT    = 16
 uint8 FAR_CENTER  =  8
 uint8 FAR_RIGHT   = 32
 
-std_msgs/Header header
+Header header
 uint8[] data

@@ -50,7 +50,7 @@ uint8 DB25_TEST_BOARD_CONNECTED = 64
 
 ###### MESSAGE ######
 
-std_msgs/Header header
+Header header
 
 ###################
 # Core Packet
